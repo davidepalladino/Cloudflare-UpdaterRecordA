@@ -17,7 +17,7 @@ It interacts with the Cloudflare API to fetch and update DNS records for a speci
 
 ## Installation 
 1. Clone or download this repository to your local machine.
-2. Install the required Python dependencies using pip:
+2. Install the required Python dependencies using `pip`:
 ```bash
 pip install requests python-dotenv
 ```
