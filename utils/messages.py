@@ -1,0 +1,6 @@
+ERROR_NO_RECORD_NAME: str = "You must provide a record name to update."
+ERROR_RECORD_NOT_FOUND: str = "Record not found."
+ERROR_RECORD_UPDATE_FAILED: str = "Record update failed with these reasons: {0}."
+ERROR_MISSED_ENV: str = "Please set environment for: {0}."
+INFO_IP_CHANGED: str = "IP is changed. Was {0}, now is {1}."
+INFO_RECORD_UPDATED: str = "Record updated."
