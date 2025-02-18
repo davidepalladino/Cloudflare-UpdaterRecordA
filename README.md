@@ -1,4 +1,4 @@
-# WARNING: This project has been dismissed. Consider the new project [DSN-UpdaterA](https://github.com/davidepalladino/DNS-UpdaterA)!
+# WARNING: This project has been abandoned. Consider the new project [DSN-UpdaterA](https://github.com/davidepalladino/DNS-UpdaterA)!
 ___
 # Cloudflare DNS Updater
 This script manages Cloudflare DNS records by automatically updating them when the public IP changes. 
