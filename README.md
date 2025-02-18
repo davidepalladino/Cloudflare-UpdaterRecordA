@@ -1,3 +1,5 @@
+# WARNING: This project has been dismissed. Consider the new project [DSN-UpdaterA](https://github.com/davidepalladino/DNS-UpdaterA)!
+___
 # Cloudflare DNS Updater
 This script manages Cloudflare DNS records by automatically updating them when the public IP changes. 
 It interacts with the Cloudflare API to fetch and update DNS records for a specific zone and record name.
